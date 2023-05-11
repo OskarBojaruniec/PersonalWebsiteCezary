@@ -1,6 +1,8 @@
 html,
 body {
-    background-image: url("assets/backroung.jpg");
+    background-image: url("assets/bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
     margin: 0px;
     font-size: 20px;
     padding: 0;
