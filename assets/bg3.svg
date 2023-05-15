@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 1120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradient_bez_nazwy_303);
+      }
+
+      .cls-2 {
+        fill: url(#Gradient_bez_nazwy_278);
+      }
+
+      .cls-3 {
+        fill: url(#Gradient_bez_nazwy_280);
+      }
+
+      .cls-4 {
+        fill: url(#Gradient_bez_nazwy_266);
+      }
+
+      .cls-5 {
+        fill: url(#Gradient_bez_nazwy_273);
+      }
+
+      .cls-6 {
+        fill: url(#Gradient_bez_nazwy_270);
+      }
+
+      .cls-7 {
+        fill: url(#Gradient_bez_nazwy_287);
+      }
+
+      .cls-8 {
+        fill: url(#Gradient_bez_nazwy_263);
+      }
+    </style>
+    <linearGradient id="Gradient_bez_nazwy_270" data-name="Gradient bez nazwy 270" x1="219.47" y1="454.55" x2="382.54" y2="149.08" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#303"/>
+      <stop offset=".53" stop-color="#161659"/>
+      <stop offset=".63" stop-color="#151556"/>
+      <stop offset=".7" stop-color="#13134d"/>
+      <stop offset=".76" stop-color="#0f0f3e"/>
+      <stop offset=".81" stop-color="#0a0a29"/>
+      <stop offset=".85" stop-color="#03030f"/>
+      <stop offset=".88" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="Gradient_bez_nazwy_266" data-name="Gradient bez nazwy 266" x1="259.75" y1="191.3" x2="720" y2="191.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#161659"/>
+      <stop offset=".99" stop-color="#303"/>
+    </linearGradient>
+    <linearGradient id="Gradient_bez_nazwy_263" data-name="Gradient bez nazwy 263" x1="336.27" y1="-88.55" x2="386.27" y2="98.03" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#303"/>
+      <stop offset=".71" stop-color="#161659"/>
+      <stop offset=".8" stop-color="#151556"/>
+      <stop offset=".85" stop-color="#13134d"/>
+      <stop offset=".9" stop-color="#0f0f3e"/>
+      <stop offset=".94" stop-color="#0a0a29"/>
+      <stop offset=".98" stop-color="#03030f"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="Gradient_bez_nazwy_273" data-name="Gradient bez nazwy 273" x1="360.48" y1="521.78" x2="359.99" y2="378.9" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#303"/>
+      <stop offset=".53" stop-color="#161659"/>
+      <stop offset=".65" stop-color="#151556"/>
+      <stop offset=".73" stop-color="#13134d"/>
+      <stop offset=".8" stop-color="#0f0f3e"/>
+      <stop offset=".86" stop-color="#0a0a29"/>
+      <stop offset=".91" stop-color="#03030f"/>
+      <stop offset=".94" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="Gradient_bez_nazwy_280" data-name="Gradient bez nazwy 280" x1="384.84" y1="796.34" x2="291.38" y2="341.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#303"/>
+      <stop offset=".16" stop-color="#161659"/>
+      <stop offset=".21" stop-color="#151557"/>
+      <stop offset=".22" stop-color="#131350"/>
+      <stop offset=".24" stop-color="#101044"/>
+      <stop offset=".24" stop-color="#0c0c33"/>
+      <stop offset=".25" stop-color="#07071d"/>
+      <stop offset=".26" stop-color="#000003"/>
+      <stop offset=".26" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="Gradient_bez_nazwy_278" data-name="Gradient bez nazwy 278" x1="239.56" y1="883.5" x2="368.58" y2="462.81" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#303"/>
+      <stop offset=".39" stop-color="#270942"/>
+      <stop offset=".64" stop-color="#161659"/>
+      <stop offset=".71" stop-color="#141453"/>
+      <stop offset=".79" stop-color="#101043"/>
+      <stop offset=".88" stop-color="#0a0a2a"/>
+      <stop offset=".97" stop-color="#010106"/>
+      <stop offset=".98" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="Gradient_bez_nazwy_287" data-name="Gradient bez nazwy 287" x1="359.47" y1="984.92" x2="361" y2="309.11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#161659"/>
+      <stop offset=".05" stop-color="#220c48"/>
+      <stop offset=".11" stop-color="#2e0338"/>
+      <stop offset=".16" stop-color="#303"/>
+      <stop offset=".23" stop-color="#210021"/>
+      <stop offset=".35" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="Gradient_bez_nazwy_303" data-name="Gradient bez nazwy 303" x1="478.16" y1="1021.78" x2="796.55" y2="1621.9" gradientTransform="translate(942 2153) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2d002d"/>
+      <stop offset=".1" stop-color="#23083e"/>
+      <stop offset=".21" stop-color="#161659"/>
+      <stop offset=".22" stop-color="#151555"/>
+      <stop offset=".3" stop-color="#0b0b30"/>
+      <stop offset=".38" stop-color="#050515"/>
+      <stop offset=".44" stop-color="#010105"/>
+      <stop offset=".49" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <polygon class="cls-6" points="0 0 720 382.6 0 382.6 0 0"/>
+  <polygon class="cls-4" points="720 0 720 382.6 259.75 138.03 720 0"/>
+  <polygon class="cls-8" points="0 0 720 0 259.75 138.03 0 0"/>
+  <polygon class="cls-5" points="0 382.6 720 599 720 382.6 0 382.6"/>
+  <polygon class="cls-3" points="720 599 720 752 0 752 720 599"/>
+  <polygon class="cls-2" points="0 382.6 720 599 0 752.5 0 382.6"/>
+  <polygon class="cls-7" points="720 752 0 1120 0 752.5 720 752"/>
+  <polygon class="cls-1" points="0 1119.5 720 751.5 720 1121 0 1119.5"/>
+</svg>
